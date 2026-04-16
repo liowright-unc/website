@@ -41,10 +41,10 @@ That's not very organized right now. It needs to be put into an intelligible for
 ## Visualizing the Results
 Let's visualize the data with seaborn to understand what it means. I created a bar plot for each distribution, ordered the x-axis numerically, and changed the titles so I knew which was which. Then, I created a chart for pace using the slices of slow, medium, and fast. 
 
-<img src="/Users/lwright/personal-site.github.io/oh_dist.png"  width="500"/>
-<img src="/Users/lwright/personal-site.github.io/tut_dist.png" alt="Image of Tutoring Distribution graph."  width="500"/>
-<img src="/Users/lwright/personal-site.github.io/pace_dist.png" alt="Image of Pace Distribution graph."  width="500"/>
-<img src="/Users/lwright/personal-site.github.io/pace_grouped_dist.png" alt="Image of Grouped Pace Distribution graph."  width="500"/>
+<img src="oh_dist.png" alt="Image of Office Hours Distribution graph."  width="500"/>
+<img src="tut_dist.png" alt="Image of Tutoring Distribution graph."  width="500"/>
+<img src="pace_dist.png" alt="Image of Pace Distribution graph."  width="500"/>
+<img src="pace_grouped_dist.png" alt="Image of Grouped Pace Distribution graph."  width="500"/>
 
 ## Analysis
 The most common response for pace was 4. This means many students find the course to be reasonably paced. 5 was a close second. The grouped distribution shows us that over four times as many students rated the course to be fast rather than slow.
